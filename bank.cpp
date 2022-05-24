@@ -22,7 +22,7 @@ public:
 		cout<<endl;
 		cout<<" Account Number :  "<<accnum<<endl;
 		cout<<" Account Name   :  "<<accname<<endl;
-		cout<<" Account Type   :  "<<acctype<<endl;
+		//cout<<" Account Type   :  "<<acctype<<endl;
 		cout<<" Account Balance:  "<<accbal<<endl<<endl<<endl;	
 	}
 	void deposit(int a)
